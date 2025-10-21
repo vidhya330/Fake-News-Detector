@@ -1,0 +1,14 @@
+streamlit
+joblib
+numpy
+pandas
+scikit-learn
+plotly
+feedparser
+spacy
+wordcloud
+textblob
+textstat
+scipy
+lime
+nltk
