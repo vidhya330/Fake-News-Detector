@@ -1,7 +1,0 @@
-streamlit==1.30.0
-joblib==1.3.2
-numpy
-pandas
-scikit-learn
-rich==14.2.0
-markdown-it-py==4.0.0
