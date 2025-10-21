@@ -1,16 +1,9 @@
-streamlit==1.38.0
+streamlit==1.30.0
 joblib==1.3.2
 numpy
 pandas
 scikit-learn
-plotly
-feedparser
-spacy==3.7.5
-wordcloud
-textblob
-textstat
-scipy
-lime
+rich==14.2.0
+markdown-it-py==4.0.0
 
-nltk
 
