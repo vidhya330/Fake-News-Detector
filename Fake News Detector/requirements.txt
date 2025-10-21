@@ -1,14 +1,15 @@
-streamlit
+streamlit==1.38.0
 joblib
 numpy
 pandas
 scikit-learn
 plotly
 feedparser
-spacy
+spacy==3.7.5
 wordcloud
 textblob
 textstat
 scipy
 lime
+
 nltk
